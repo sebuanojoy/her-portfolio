@@ -2,7 +2,9 @@
 
 Portfolio of Joy Andrei Sebuano.
 
-Live site: https://sebuanojoy.github.io/her-portfolio/
+## My websites
+
+- [HER Portfolio](https://sebuanojoy.github.io/her-portfolio/)
 
 ## Publishing
 
